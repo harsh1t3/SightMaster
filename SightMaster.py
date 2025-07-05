@@ -1,6 +1,5 @@
-# SightMaster 🎯
-# Crosshair Drawer & Valorant Code Generator (Tkinter)
-# Draw your own crosshair with real-time preview & generate valid Valorant crosshair codes
+# SightMaster 
+
 
 import tkinter as tk
 from tkinter import messagebox
